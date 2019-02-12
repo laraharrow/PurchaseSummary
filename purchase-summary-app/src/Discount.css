@@ -1,0 +1,22 @@
+.promo {
+  color: #A29E9E;
+  text-align: left;
+  margin-bottom: 5%;
+}
+
+.input {
+  width: 50%;
+  padding: 4%;
+  margin-left: -7%;
+  margin-top: -3%;
+  border-radius: 5px;
+}
+
+.apply {
+  border-radius: 30px;
+  border: solid #000 1px;
+  padding: 3% 5%;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 1% 0% 0% 5%;
+}

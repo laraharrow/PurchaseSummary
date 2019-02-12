@@ -1,0 +1,13 @@
+.savings {
+  padding: 9%;
+  margin-top: 1% 40%;
+  width: 100%;
+  border: 2px solid #F5F5F5;
+  border-radius: 5px;
+  background-color: #fff;
+  position: absolute;
+}
+
+.lined {
+  text-align: left;
+}

@@ -1,0 +1,58 @@
+.border {
+  margin: 5% 15%;
+  width: 25%;
+  border: 2px solid #F5F5F5;
+  border-radius: 15px;
+  top: 0px;
+  left: 0px;
+  position: relative;
+}
+
+table {
+  width: 80%;
+  border-bottom: 2px solid #F5F5F5;
+  margin: 10%;
+  padding-bottom: 5%;
+}
+
+.lastTable {
+  border-bottom: none;
+  margin-top: -5%;
+}
+
+tr {
+  padding: 5px;
+}
+
+.title {
+  text-align: left;
+  padding-bottom: 5%;
+  display: table;
+}
+
+.value {
+  text-align: right;
+  font-weight: bold;
+  padding-bottom: 5%;
+}
+
+.pickup {
+  color: #FF0000;
+}
+
+.total {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.padding {
+  padding-top: 12%;
+}
+
+.hover {
+  cursor: pointer;
+}
